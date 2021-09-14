@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'shaojiemike notes homepage',
-  domain: 'https://www.notion.so/Notes-Homepage-3d92fba1d31040a19d980650b89c31eb',
+  domain: 'https://plume-paprika-bc3.notion.site/Notes-Homepage-3d92fba1d31040a19d980650b89c31eb',
   author: 'shaojiemike',
 
   // open graph metadata (optional)
